@@ -1,0 +1,10 @@
+.mx-auto {
+    background-color: #748E63;
+    padding: 30px;
+    border-radius: 5%;
+}
+
+#loginpage .container-fluid {
+    background-image: url('../assets/bg.jpg') !important;
+    background-size: cover;
+}
